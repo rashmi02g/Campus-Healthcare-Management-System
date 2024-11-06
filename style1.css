@@ -1,0 +1,6 @@
+.container {
+    background-image: url("ggp.webp");
+    background-size: cover;
+    height: 100%;
+    z-index: 10;
+}
